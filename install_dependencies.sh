@@ -3,6 +3,8 @@
 # Instalar dependencias de Python
 pip install boto3 python-dotenv kaleido
 
-# Instalar chktex y latexmk
+# Actualizar la lista de paquetes disponibles
 sudo apt-get update
-sudo apt-get install -y chktex latexmk
+
+# Instalar chktex, latexmk y texlive-latex-base
+sudo apt-get install -y chktex latexmk texlive-latex-base

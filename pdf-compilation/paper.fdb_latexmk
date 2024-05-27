@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1716410363 "paper.tex" "pdf-compilation/paper.pdf" "paper" 1716410363
-  "/etc/texmf/web2c/texmf.cnf" 1716409803 475 c0e671620eb5563b2130f56340a5fde8 ""
+["pdflatex"] 1716830266 "paper.tex" "pdf-compilation/paper.pdf" "paper" 1716830266
+  "/etc/texmf/web2c/texmf.cnf" 1716828506 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
@@ -19,12 +19,12 @@
   "/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1716409820 75955 f78456fd1308dc295dc476a68e28d85b ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1716409823 4791332 92b68383fdcfa097700747cc9bf808a3 ""
-  "grafico.pdf" 1716409122 28000 7aa4abe1dd4ca70a7727f4623718f808 ""
-  "paper.tex" 1716410184 413 811f358959b9ccc1c46d325f32da9dda ""
-  "pdf-compilation/paper.aux" 1716410363 262 f0fb753e28f12439728c9861867357fb "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1716828522 75955 f78456fd1308dc295dc476a68e28d85b ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1716828525 4791332 af31c9734f5d9d9b86e94c23702789ea ""
+  "graphs/grafico.pdf" 1716830246 28000 b8110b15d19e965f3dae02ae83556602 ""
+  "paper.tex" 1716828161 452 96e21341c2c002e4988bd633e3b198e9 ""
+  "pdf-compilation/paper.aux" 1716830266 262 f0fb753e28f12439728c9861867357fb "pdflatex"
   (generated)
-  "pdf-compilation/paper.pdf"
   "pdf-compilation/paper.log"
   "pdf-compilation/paper.aux"
+  "pdf-compilation/paper.pdf"
