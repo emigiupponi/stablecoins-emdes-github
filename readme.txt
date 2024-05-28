@@ -1,4 +1,5 @@
-# En Codespace hay que instalar dependencias de latex:
+# En Codespace hay que instalar dependencias de latex, 
+# se puede ejecturar install_dependencies.sh con ./install_dependencies.sh, que ejecuta:
 
 sudo apt-get update
 sudo apt-get install texlive-latex-base
