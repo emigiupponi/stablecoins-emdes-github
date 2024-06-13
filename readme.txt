@@ -7,4 +7,3 @@ sudo apt-get install latexmk
 
 # Y para compilar, para que se compile en una subcarpeta, hay que hacerlo desde la línea de comando. 
 
-latexmk -pdf -output-directory=pdf-compilation paper.tex

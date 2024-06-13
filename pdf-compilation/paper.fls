@@ -34,10 +34,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT graphs/grafico.pdf
-INPUT ./graphs/grafico.pdf
+INPUT graphs/usdt_ratio.pdf
+INPUT ./graphs/usdt_ratio.pdf
 OUTPUT pdf-compilation/paper.pdf
-INPUT ./graphs/grafico.pdf
+INPUT ./graphs/usdt_ratio.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT pdf-compilation/paper.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
